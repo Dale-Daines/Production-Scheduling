@@ -1,0 +1,14 @@
+Day 0 Orders: 31 Cycles: 1988
+Day 1 Orders: 38 Cycles: 1998
+Day 2 Orders: 39 Cycles: 1995
+Day 3 Orders: 39 Cycles: 1987
+Day 4 Orders: 36 Cycles: 1996
+Orders delayed: 11
+Orders Cancelled: 7
+
+Production Cost: $4583050
+
+Gross Profit: $164192
+Cost of Delays: $50680
+Cost of Unsatisfied Orders: $111525
+Net Profit: $1987
